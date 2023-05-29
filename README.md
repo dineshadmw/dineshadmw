@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Dinesha
-- 👀 I’m interested in front end web development
+- 👀 I’m interested in front end web development and data analyst
 - 🌱 I’m currently learning html, css and javascript
-- 💞️ I’m looking to collaborate on various web development projects to enhance my skills and competencies
+- 💞️ I’m looking to collaborate on various web development projects and data analyst projects to enhance my skills and competencies
 - 📫 you can reach me on dmwdinesha@gmail.com
 
 <!---
